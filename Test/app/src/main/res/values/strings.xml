@@ -11,5 +11,6 @@
     <string name="hint_text">Please Enter RSS Feed</string>
     <string name="url_error_message"> No network connection available </string>
     <string name="no_term_entered"> Unable to retrieve web page. URL may be invalid </string>
+    <string name="xml_error">There was an error loading XML </string>
 
 </resources>
